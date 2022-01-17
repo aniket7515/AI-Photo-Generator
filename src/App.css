@@ -1,5 +1,23 @@
+*{
+  background: #242424;
+  color: white;
+}
+.App button{
+  padding: 22px 55px;
+  border-radius: 12px;
+  margin-top: 25px;
+  transition: 1s;
+  font-size: 23px;
+  cursor: pointer;
+}
+.App button:hover{
+  background: #fff;
+  color: black;
+}
+
 .App {
   text-align: center;
+ 
 }
 
 .App-logo {
